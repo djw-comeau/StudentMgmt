@@ -44,10 +44,11 @@ Press 4 to exit the program.
 # Sample Run
 
 * Student Management System *
+  
 1. Add New Student
-2. Display All Students
-3. Search For Student By ID
-4. Exit
+3. Display All Students
+4. Search For Student By ID
+5. Exit
 Choose: 1
 Enter Name: Negan Smith
 Enter Age: 39
